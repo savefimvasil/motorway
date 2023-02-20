@@ -1,0 +1,11 @@
+.block-form {
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+}
+
+.form-error {
+  color: red;
+  margin: 4px 0 10px;
+  font-size: 12px;
+}
